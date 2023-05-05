@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55a3e052-1a61-4774-9c7e-8c63a95bdd79" name="Changes" comment="starting project">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="55a3e052-1a61-4774-9c7e-8c63a95bdd79" name="Changes" comment="Displaying a Map Using Leaflet Library">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,8 @@
       <workItem from="1683128736896" duration="1199000" />
       <workItem from="1683183911453" duration="594000" />
       <workItem from="1683206687513" duration="5226000" />
-      <workItem from="1683225222268" duration="3494000" />
+      <workItem from="1683225222268" duration="3559000" />
+      <workItem from="1683290864486" duration="5751000" />
     </task>
     <task id="LOCAL-00001" summary="removed a line">
       <created>1681768145180</created>
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683208032051</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Displaying a Map Using Leaflet Library">
+      <created>1683233313823</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683233313823</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +172,7 @@
     <MESSAGE value="run1 and run2 variable got deleted" />
     <MESSAGE value="nvm" />
     <MESSAGE value="starting project" />
-    <option name="LAST_COMMIT_MESSAGE" value="starting project" />
+    <MESSAGE value="Displaying a Map Using Leaflet Library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Displaying a Map Using Leaflet Library" />
   </component>
 </project>
