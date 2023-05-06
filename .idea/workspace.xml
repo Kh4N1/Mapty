@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55a3e052-1a61-4774-9c7e-8c63a95bdd79" name="Changes" comment="Rendering Workouts">
+    <list default="true" id="55a3e052-1a61-4774-9c7e-8c63a95bdd79" name="Changes" comment="Move to Marker On Click">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
@@ -75,7 +75,7 @@
       <workItem from="1683183911453" duration="594000" />
       <workItem from="1683206687513" duration="5226000" />
       <workItem from="1683225222268" duration="3559000" />
-      <workItem from="1683290864486" duration="21686000" />
+      <workItem from="1683290864486" duration="24763000" />
     </task>
     <task id="LOCAL-00001" summary="removed a line">
       <created>1681768145180</created>
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683398731998</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Move to Marker On Click">
+      <created>1683400533247</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683400533247</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +220,7 @@
     <MESSAGE value="Managing Workout Data Creating Classes" />
     <MESSAGE value="Creating a New Workout" />
     <MESSAGE value="Rendering Workouts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rendering Workouts" />
+    <MESSAGE value="Move to Marker On Click" />
+    <option name="LAST_COMMIT_MESSAGE" value="Move to Marker On Click" />
   </component>
 </project>
