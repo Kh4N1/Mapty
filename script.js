@@ -240,6 +240,7 @@ class App {
     });
     // workout.click();
   }
+
   _setLocalStorage() {
     localStorage.setItem('workouts', JSON.stringify(this.#workouts));
   }
