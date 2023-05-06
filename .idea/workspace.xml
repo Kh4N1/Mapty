@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55a3e052-1a61-4774-9c7e-8c63a95bdd79" name="Changes" comment="Displaying a Map Marker &amp; Rendering Workout Input Form">
+    <list default="true" id="55a3e052-1a61-4774-9c7e-8c63a95bdd79" name="Changes" comment="Refactoring for Project Architecture">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
@@ -75,7 +75,7 @@
       <workItem from="1683183911453" duration="594000" />
       <workItem from="1683206687513" duration="5226000" />
       <workItem from="1683225222268" duration="3559000" />
-      <workItem from="1683290864486" duration="12828000" />
+      <workItem from="1683290864486" duration="14234000" />
     </task>
     <task id="LOCAL-00001" summary="removed a line">
       <created>1681768145180</created>
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683298284076</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Refactoring for Project Architecture">
+      <created>1683356148948</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683356148948</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +188,7 @@
     <MESSAGE value="starting project" />
     <MESSAGE value="Displaying a Map Using Leaflet Library" />
     <MESSAGE value="Displaying a Map Marker &amp; Rendering Workout Input Form" />
-    <option name="LAST_COMMIT_MESSAGE" value="Displaying a Map Marker &amp; Rendering Workout Input Form" />
+    <MESSAGE value="Refactoring for Project Architecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring for Project Architecture" />
   </component>
 </project>
