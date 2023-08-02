@@ -5,7 +5,7 @@ This app created with OOP, Geolocation API, External Libraries, and Local Storag
 ## Setup
 
 If you are living in IRAN, you have to use VPN for getting response massage from API that i used in this project.
-We are going to execute this project using parcel.
+We are going to execute this project using live-server.
 
 ```
 $ cd ../Mapty
